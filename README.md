@@ -14,6 +14,6 @@ Lenovo Legion Y700でGSIを使用すると「有線イヤホンの認識がさ�
 それらの不具合は、Phh Treble Settingsで回避可能なので各自で設定をしてください。<br>
 
 
-Lenovo Legion Y700にの詳細は[こちら](https://note.com/reindex/n/nea6243df5d41)で色々と書き記しています。<br>
+Lenovo Legion Y700の詳細は[こちら](https://note.com/reindex/n/nea6243df5d41)で色々と書き記しています。<br>
 BLUやROM焼き、EDLケーブルを使ったQFILでの復旧、シリアルナンバーの復旧など様々な情報を知る事ができます。
 
