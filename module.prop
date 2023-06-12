@@ -1,6 +1,6 @@
-id=Y700-GSI-FIX
-name=Legion Y700 GSI FIX
+id=Y700-GSI-FIX-MOD
+name=Legion Y700 GSI Fix MOD
 version=v1.0
 versionCode=1
-author=SMART ASW
-description=Fix auto brightness on Legion Y700 with Phh based GSI..
+author=Re*Index.(ot_inc)
+description=Lenovo Legion Y700のGSI環境で自動輝度調整と顔認証機能を有効化します。
