@@ -19,3 +19,8 @@ Lenovo Legion Y700でGSIを使用すると「有線イヤホンの認識がさ�
 Lenovo Legion Y700の詳細は[こちら](https://note.com/reindex/n/nea6243df5d41)で色々と書き記しています。<br>
 BLUやROM焼き、EDLケーブルを使ったQFILでの復旧、シリアルナンバーの復旧など様々な情報を知る事ができます。
 
+### リンク (推奨モジュール)
+
+- [Magisk Overlayfs](https://github.com/HuskyDG/magic_overlayfs)
+- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
+- [Universal SafetyNet Fix MOD](https://github.com/Displax/safetynet-fix)
