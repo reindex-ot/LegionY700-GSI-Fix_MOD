@@ -9,7 +9,7 @@ Lenovo Legion Y700にGSIをインストールした環境での不具合を修�
 - ゲームモード切替スイッチのキーレイアウト(割り当ては上がFocus、下がCamera)
 
 
-Tips: ゲームモード切替スイッチは、このモジュールの有効化後にButtonMapper等で「キーマッピングの割り当て」が可能になります。
+Tips: ゲームモード切替スイッチは、このモジュールの有効化後に[ButtonMapper](https://play.google.com/store/apps/details?id=flar2.homebutton)等で「キーマッピングの割り当て」が可能になります。
 
 ### その他
 Lenovo Legion Y700でGSIを使用すると「有線イヤホンの認識がされない事(オーディオプロファイルが原因)」や「VoIPの音声が高音化する(VoIPのステレオ対応が原因)」などの不具合が起きます。<br>
